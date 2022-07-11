@@ -1,8 +1,6 @@
 ## Description
 
-Sistema de cadastro de livros desenvolvido em TypeScript
-com a biblioteca Next.js. Utilizei o ORM Sequelize e o banco
-de dados MySQL.
+CRUD for onboard register
 
 ## Installation
 
